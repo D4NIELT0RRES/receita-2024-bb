@@ -1,4 +1,4 @@
-# Landing Page - RECEITA
+# Site - RECEITA
 ![](./screenshot/bolo_cenoura.png)
 
 
